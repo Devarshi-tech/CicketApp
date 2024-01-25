@@ -1,3 +1,0 @@
-[build]
-command = "ng run build --production"
-publish = "dist/cicket-app/browser"
