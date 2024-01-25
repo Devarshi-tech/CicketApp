@@ -1,0 +1,3 @@
+[build]
+command = "ng run build --production"
+publish = "docs/browser"
