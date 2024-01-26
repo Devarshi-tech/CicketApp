@@ -1,4 +1,4 @@
 export const environment = {
-    apiUrl:'https://crickinformerbackedn-production.up.railway.app'
+    apiUrl:'http://localhost:8081',
 
 };
